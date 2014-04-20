@@ -1,0 +1,7 @@
+== 19 Apr 2014 ==
+Setup of Boiler plate code using Yo/Grunt/Bower 
+Learning Outcomes: 
+Setup node path on Mac
+How to install dependencies using Bower
+How to install Yo Generators
+Next Step: Setup Mongo with Flask
