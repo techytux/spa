@@ -9,3 +9,4 @@ This project can be used by organisations to allocate projects to its members to
 Use Case
 University has a list of Projects to be allocated to graduate students as part of their thesis work.
 
+A Daily log is used to keep track of the progress of the project and show learning outcomes
