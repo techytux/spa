@@ -5,3 +5,12 @@ Setup node path on Mac
 How to install dependencies using Bower
 How to install Yo Generators
 Next Step: Setup Mongo with Flask
+
+== 22 Apr 2014 == 
+Added mongo support and first schema
+Learning outcomes
+How to setup manage.py for flask similar to manage.py for Django
+Some configuration for vim
+MongoEngine as an ORM for Mongo
+Next Step:
+Create UI to list projects using angular 
