@@ -4,7 +4,7 @@ var proxySnippet = require('grunt-connect-proxy/lib/utils').proxyRequest;
 
 module.exports = function (grunt) {
   require('load-grunt-tasks')(grunt);
-  require('time-grunt')(grunt); 
+  require('time-grunt')(grunt);
 
   grunt.initConfig({
     yeoman: {
@@ -66,12 +66,12 @@ module.exports = function (grunt) {
         }
       },
       /*
-      dist: {
-        options: {
-          base: '<%= yeoman.dist %>'
-        }
-      }
-      */
+dist: {
+options: {
+base: '<%= yeoman.dist %>'
+}
+}
+*/
     },
     // Put files not handled in other tasks here
     copy: {
