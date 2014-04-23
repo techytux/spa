@@ -13,4 +13,5 @@ How to setup manage.py for flask similar to manage.py for Django
 Some configuration for vim
 MongoEngine as an ORM for Mongo
 Next Step:
-Create UI to list projects using angular 
+-- Create UI to list projects using angular
+-- Create API in flask to give out a list of Projects as a json  
